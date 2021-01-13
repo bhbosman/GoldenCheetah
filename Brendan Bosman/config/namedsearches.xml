@@ -1,0 +1,17 @@
+<NamedSearches>
+	<NamedSearch>
+		<name>"Swim"</name>
+		<type>"1"</type>
+		<text>"isSwim&amp;lt;&amp;gt;0"</text>
+	</NamedSearch>
+	<NamedSearch>
+		<name>"Bike"</name>
+		<type>"1"</type>
+		<text>"(isRun=0) and (isSwim=0)"</text>
+	</NamedSearch>
+	<NamedSearch>
+		<name>"Run"</name>
+		<type>"1"</type>
+		<text>"isRun&amp;lt;&amp;gt;0"</text>
+	</NamedSearch>
+</NamedSearches>

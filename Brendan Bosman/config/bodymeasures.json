@@ -1,0 +1,41 @@
+{
+    "measures": [
+        {
+            "boneskg": 0,
+            "comment": "",
+            "fatkg": 0,
+            "fatpercent": 0,
+            "leankg": 0,
+            "musclekg": 0,
+            "originalsource": "",
+            "source": 0,
+            "weightkg": 84.8,
+            "when": 1610014959
+        },
+        {
+            "boneskg": 3.2,
+            "comment": "",
+            "fatkg": 0,
+            "fatpercent": 23.2,
+            "leankg": 0,
+            "musclekg": 61.8,
+            "originalsource": "",
+            "source": 0,
+            "weightkg": 84.7,
+            "when": 1610349788
+        },
+        {
+            "boneskg": 3.3,
+            "comment": "",
+            "fatkg": 0,
+            "fatpercent": 22.9,
+            "leankg": 0,
+            "musclekg": 61.4,
+            "originalsource": "",
+            "source": 0,
+            "weightkg": 84,
+            "when": 1610522917
+        }
+    ],
+    "version": 1
+}

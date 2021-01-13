@@ -1,0 +1,12 @@
+Unhandled exception 0xc0000005
+RAX=1 RCX=40a0c0c100000090 RDX=e2c87ff440 RBX=40a0c0c100000000
+RSP=e2c87ff338 RBP=e2c87ff440 RSI=ffffffff RDI=504dda38
+R8=2e1bb29b940 R9=e2c87ff440 R10=b69eeff91f R11=16d3e147973
+R12=e2c87ff500 R13=2e1ae54e801 R14=e2c87ff538 R15=40a0c0c100000090
+
+Qt5Core.dll!QDateTime::date+0x3
+GoldenCheetah.exe@0x7ff67f0e0000!+0x328db4
+GoldenCheetah.exe@0x7ff67f0e0000!+0x4562e5
+Qt5Core.dll!QThread::start+0x331
+KERNEL32.DLL!BaseThreadInitThunk+0x14
+ntdll.dll!RtlUserThreadStart+0x21

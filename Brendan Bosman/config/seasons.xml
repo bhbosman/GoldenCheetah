@@ -1,0 +1,38 @@
+<seasons>
+	<season>
+		<name>FromTrainer</name>
+		<startdate>2019-03-01</startdate>
+		<enddate>2029-01-01</enddate>
+		<type>0</type>
+		<id>{7329ae2e-57b8-43cf-aaa9-9375609e53b3}</id>
+		<seed>0</seed>
+		<low>-50</low>
+	</season>
+	<season>
+		<name>Year: 2021</name>
+		<startdate>2021-01-01</startdate>
+		<enddate>2021-12-31</enddate>
+		<type>0</type>
+		<id>{f1fabe2c-e668-4466-8a7d-7e787e4488e6}</id>
+		<seed>31</seed>
+		<low>-23</low>
+	</season>
+	<season>
+		<name>Year:2020</name>
+		<startdate>2020-01-01</startdate>
+		<enddate>2020-12-31</enddate>
+		<type>0</type>
+		<id>{d3124f36-288e-4fd8-a1a4-a9b5a09fd758}</id>
+		<seed>0</seed>
+		<low>-50</low>
+	</season>
+	<season>
+		<name>Year:2019</name>
+		<startdate>2019-01-01</startdate>
+		<enddate>2019-12-31</enddate>
+		<type>0</type>
+		<id>{b3a9300a-d470-44f9-b51b-abf29b01d109}</id>
+		<seed>0</seed>
+		<low>-50</low>
+	</season>
+</seasons>

@@ -1,0 +1,46 @@
+Unhandled exception 0xc0000005
+RAX=0 RCX=0 RDX=0 RBX=0
+RSP=9478f9358 RBP=9478f9459 RSI=0 RDI=11e8d22be60
+R8=11e9ac47340 R9=9478f94e0 R10=0 R11=246
+R12=11e8d22be60 R13=11eaa73d0d0 R14=9478f94e0 R15=7ff752d3edb0
+
+Qt5Widgets.dll!QDataWidgetMapper::toFirst+0x0
+GoldenCheetah.exe@0x7ff7527d0000!+0x3b61ae
+Qt5Core.dll!QMetaObject::activate+0x577
+Qt5Widgets.dll!QTabBar::setCurrentIndex+0x18f
+Qt5Widgets.dll!QTabBar::insertTab+0x1ad
+Qt5Widgets.dll!QTabBar::addTab+0x2c
+GoldenCheetah.exe@0x7ff7527d0000!+0x3b2bb1
+GoldenCheetah.exe@0x7ff7527d0000!+0x56ef61
+Qt5Core.dll!QMetaObject::activate+0x577
+Qt5Core.dll!QSignalMapper::map+0x19d
+Qt5Core.dll!QMetaObject::activate+0x577
+Qt5Widgets.dll!QAction::activate+0x132
+Qt5Widgets.dll!QMenu::actionGeometry+0x458
+Qt5Widgets.dll!QMenu::actionGeometry+0x2c6
+Qt5Widgets.dll!QMenu::mouseReleaseEvent+0xb9
+Qt5Widgets.dll!QWidget::event+0xdc
+Qt5Widgets.dll!QMenu::event+0x17c
+Qt5Widgets.dll!QApplicationPrivate::notify_helper+0x140
+Qt5Widgets.dll!QApplication::notify+0x80a
+Qt5Core.dll!QCoreApplication::notifyInternal2+0xb9
+Qt5Widgets.dll!QApplicationPrivate::sendMouseEvent+0x326
+Qt5Widgets.dll!QSizePolicy::QSizePolicy+0x261a
+Qt5Widgets.dll!QSizePolicy::QSizePolicy+0xa65
+Qt5Widgets.dll!QApplicationPrivate::notify_helper+0x140
+Qt5Widgets.dll!QApplication::notify+0x1a77
+Qt5Core.dll!QCoreApplication::notifyInternal2+0xb9
+Qt5Gui.dll!QGuiApplicationPrivate::processMouseEvent+0x808
+Qt5Gui.dll!QWindowSystemInterface::sendWindowSystemEvents+0x9b
+Qt5Core.dll!QEventDispatcherWin32::processEvents+0xe95
+USER32.dll!CallWindowProcW+0x3f8
+USER32.dll!DispatchMessageW+0x259
+Qt5Core.dll!QEventDispatcherWin32::processEvents+0x536
+qwindows.dll!qt_plugin_query_metadata+0x1869
+Qt5Core.dll!QEventLoop::exec+0x1b3
+Qt5Core.dll!QCoreApplication::exec+0x144
+GoldenCheetah.exe@0x7ff7527d0000!+0x289543
+GoldenCheetah.exe@0x7ff7527d0000!+0x5d4784
+GoldenCheetah.exe@0x7ff7527d0000!+0x5d3d3f
+KERNEL32.DLL!BaseThreadInitThunk+0x14
+ntdll.dll!RtlUserThreadStart+0x21
