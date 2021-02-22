@@ -35,6 +35,30 @@
             "source": 0,
             "weightkg": 84,
             "when": 1610522917
+        },
+        {
+            "boneskg": 3.3,
+            "comment": "",
+            "fatkg": 0,
+            "fatpercent": 21.9,
+            "leankg": 0,
+            "musclekg": 61.4,
+            "originalsource": "",
+            "source": 0,
+            "weightkg": 81.3,
+            "when": 1612514306
+        },
+        {
+            "boneskg": 3.3,
+            "comment": "",
+            "fatkg": 0,
+            "fatpercent": 21.9,
+            "leankg": 0,
+            "musclekg": 61.4,
+            "originalsource": "",
+            "source": 0,
+            "weightkg": 79.8,
+            "when": 1613540180
         }
     ],
     "version": 1

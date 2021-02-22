@@ -1,5 +1,50 @@
 <routes>
 	<route>
+		<name>WatopiaClimb</name>
+		<id>{c988389b-e7f6-40b9-8264-a757c14cf2b4}</id>
+		<points>
+			<point><lat>-11.6379</lat><lon>166.956</lon></point>
+			<point><lat>-11.6379</lat><lon>166.956</lon></point>
+			<point><lat>-11.6379</lat><lon>166.956</lon></point>
+			<point><lat>-11.638</lat><lon>166.957</lon></point>
+			<point><lat>-11.6381</lat><lon>166.957</lon></point>
+			<point><lat>-11.6382</lat><lon>166.957</lon></point>
+			<point><lat>-11.6384</lat><lon>166.957</lon></point>
+			<point><lat>-11.6384</lat><lon>166.957</lon></point>
+			<point><lat>-11.6385</lat><lon>166.956</lon></point>
+			<point><lat>-11.6386</lat><lon>166.956</lon></point>
+			<point><lat>-11.6386</lat><lon>166.956</lon></point>
+			<point><lat>-11.6387</lat><lon>166.956</lon></point>
+			<point><lat>-11.6388</lat><lon>166.956</lon></point>
+			<point><lat>-11.6388</lat><lon>166.956</lon></point>
+			<point><lat>-11.6389</lat><lon>166.955</lon></point>
+			<point><lat>-11.639</lat><lon>166.955</lon></point>
+			<point><lat>-11.6391</lat><lon>166.955</lon></point>
+			<point><lat>-11.6392</lat><lon>166.955</lon></point>
+			<point><lat>-11.6394</lat><lon>166.955</lon></point>
+			<point><lat>-11.6396</lat><lon>166.955</lon></point>
+			<point><lat>-11.6396</lat><lon>166.955</lon></point>
+			<point><lat>-11.6396</lat><lon>166.955</lon></point>
+			<point><lat>-11.6395</lat><lon>166.955</lon></point>
+			<point><lat>-11.6395</lat><lon>166.956</lon></point>
+			<point><lat>-11.6394</lat><lon>166.956</lon></point>
+			<point><lat>-11.6393</lat><lon>166.956</lon></point>
+			<point><lat>-11.6392</lat><lon>166.956</lon></point>
+			<point><lat>-11.6392</lat><lon>166.957</lon></point>
+			<point><lat>-11.6391</lat><lon>166.957</lon></point>
+			<point><lat>-11.639</lat><lon>166.957</lon></point>
+			<point><lat>-11.6389</lat><lon>166.957</lon></point>
+			<point><lat>-11.6389</lat><lon>166.957</lon></point>
+			<point><lat>-11.6391</lat><lon>166.957</lon></point>
+			<point><lat>-11.6393</lat><lon>166.958</lon></point>
+			<point><lat>-11.6395</lat><lon>166.958</lon></point>
+			<point><lat>-11.6397</lat><lon>166.958</lon></point>
+			<point><lat>-11.6399</lat><lon>166.958</lon></point>
+			<point><lat>-11.6401</lat><lon>166.958</lon></point>
+			<point><lat>-11.6402</lat><lon>166.958</lon></point>
+		</points>
+	</route>
+	<route>
 		<name>Swartberg Pass</name>
 		<id>{68c699d2-ff6c-4c5f-8e05-12d21e8785d4}</id>
 		<points>
